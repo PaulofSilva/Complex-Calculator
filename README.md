@@ -1,4 +1,4 @@
-# -Complex-Calculator
+# Complex-Calculator
 Complex number calculator
 
 Pretende-se a codificação de um programa em linguagem C para manipulação de números complexos. Genericamente o programa deverá implementar
