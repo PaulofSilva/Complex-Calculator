@@ -1,0 +1,24 @@
+		       AJUDA:
+____________________________________________________
+Um numero complexo e constituido  por  duas  partes, 
+a real e a imaginaria, sendo representados na forma, 
+a + bi onde "a" e "b" sao numeros reais. 
+____________________________________________________ 
+Considerando  os  dois  numero  complexos  as quatro 
+operacoes aritmeticas sao: 
+
+-> Soma:                          
+-> Subtraccao:                  
+-> Multiplicacao:                             
+-> Divisao: 
+
+Exemplo: 
+
+2 + 4i -> numero complexo
+6i -> numero complexo puro
+4 -> numero real
+-i -> numero complexo puro
+i^2 -> numero real
+ 
+         
+ 
